@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Nicholas Rizzi
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: en
+DefaultContentLanguage: it
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Videomaker di proseffione, nerd per passione.
         avatar:
             enabled: true
             local: true
@@ -51,10 +51,10 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: Licenziato
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -191,7 +191,13 @@ menu:
           url: https://twitter.com
           params:
             icon: brand-twitter
-
+            
+        - identifier: instagram
+          name: Instagram
+          url: https://twitter.com
+          params:
+            icon: brand-instagram
+            
 related:
     includeNewer: true
     threshold: 60
