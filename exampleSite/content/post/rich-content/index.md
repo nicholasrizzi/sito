@@ -1,11 +1,11 @@
 +++
-author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
+author = "Nicholas Rizzi"
+title = "Arti Grafiche Baratelli"
+date = "2019 06 01"
 description = "A brief description of Hugo Shortcodes"
 tags = [
-    "shortcodes",
-    "privacy",
+    "graphichs",
+    "design",
 ]
 +++
 
