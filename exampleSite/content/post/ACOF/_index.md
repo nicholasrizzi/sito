@@ -3,6 +3,7 @@ author = "Nicholas Rizzi"
 title = "ACOF 'O. Fiorini'"
 date = "2021-11-16"
 description = "Scuola secondariazia"
+
 categories = [
     "Formazione",
 ]
@@ -11,7 +12,6 @@ tags = [
     "grafica",
     "videomaking",
 ]
-image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 +++
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
