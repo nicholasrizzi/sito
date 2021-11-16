@@ -191,12 +191,6 @@ menu:
           params:
             icon: brand-twitter
             
-        - identifier: instagram
-          name: Instagram
-          url: https://twitter.com
-          params:
-            icon: brand-instagram
-            
 related:
     includeNewer: true
     threshold: 60
