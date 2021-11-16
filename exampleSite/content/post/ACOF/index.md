@@ -2,7 +2,7 @@
 author = "Nicholas Rizzi"
 title = "ACOF 'O. Fiorini'"
 date = "2021-11-16"
-description = "Scuola secondariazia"
+description = "Qualifica di operatore grafico audiovideo"
 
 categories = [
     "Formazione",
