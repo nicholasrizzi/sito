@@ -177,6 +177,14 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
+              
+        - identifier: privacy
+          name: Privacy
+          url: www.google.com
+          weight: -100
+          params:
+              icon: home
+              
     
     social:
         - identifier: github
