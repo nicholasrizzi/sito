@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://nicholas.rizzi.business
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -175,7 +175,7 @@ menu:
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
               icon: home
     
     social:
