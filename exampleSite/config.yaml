@@ -219,10 +219,3 @@ markup:
         startLevel: 2
     highlight:
         noClasses: false
-
-     sitemap:
-        changefreq: monthly
-        filename: sitemap.xml
-        priority: 0.5
-      
-     enableRobotsTXT: true
