@@ -183,7 +183,7 @@ menu:
           url: https://www.iubenda.com/privacy-policy/65026713
           weight: -100
           params:
-            icon: home
+            icon: privacy-policy
             newTab: true
     
     social:
