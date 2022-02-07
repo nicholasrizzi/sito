@@ -44,11 +44,14 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --accent-color: #ecf0f1;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
-        --body-text-color: rgba(255, 255, 255, 0.7);
+        --body-text-color: rgba(69, 133, 140, 1);
         --scrollbar-thumb: #424242;
         --scrollbar-track: var(--body-background);
     }
 }
+
+
+/* BG color default 255, 255, 255, 0.7 */
 
 /**
 *   Global font family
