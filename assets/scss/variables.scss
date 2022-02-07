@@ -40,7 +40,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --scrollbar-track: var(--body-background);
 
     &[data-scheme="dark"] {
-        --body-background: #45858C;
+        --body-background: #303030;
         --accent-color: #ecf0f1;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
@@ -49,9 +49,6 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --scrollbar-track: var(--body-background);
     }
 }
-
-
-/* BG default  303030 */
 
 /**
 *   Global font family
