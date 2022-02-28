@@ -1,8 +1,8 @@
 +++
 author = "Nicholas Rizzi"
-title = "Ciak InLombardia"
+title = "Ciak #InLombardia 2021"
 date = "2021-09-06"
-description = "presso LivingMedia S.r.L."
+description = "Nome del video che non ricordo"
 
 categories = [
     "Bandi",
