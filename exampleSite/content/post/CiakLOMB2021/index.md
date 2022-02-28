@@ -10,8 +10,8 @@ categories = [
 tags = [
     "Lombardia",
     "Ciak!",
-    "InLombardia",
-    "Ciak!InLombardia",
+    "#InLombardia",
+    "Ciak! #InLombardia",
     "Concorso",
     "Regione Lombardia",
 ]
