@@ -19,7 +19,8 @@ tags = [
 
 Partecipazione al concorso regionale Ciak! #InLombardia 2021
 
-https://youtu.be/PvhvfRKUpU4
+
+{{< youtube PvhvfRKUpU4 >}}
 
 {{< css.inline >}}
 <style>
