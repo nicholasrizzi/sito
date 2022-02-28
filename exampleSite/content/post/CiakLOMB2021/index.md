@@ -1,6 +1,6 @@
 +++
 author = "Nicholas Rizzi"
-title = "Ciak! #InLombardia"
+title = "Ciak InLombardia"
 date = "2021-09-06"
 description = "presso LivingMedia S.r.L."
 
