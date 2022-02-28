@@ -1,6 +1,6 @@
 +++
 author = "Nicholas Rizzi"
-title = "Ciak #InLombardia 2021"
+title = "Ciak! InLombardia 2021"
 date = "2021-09-06"
 description = "Nome del video che non ricordo"
 
