@@ -2,7 +2,7 @@
 author = "Nicholas Rizzi"
 title = "Addetto streaming e montaggio video"
 date = "2022-02-28"
-description = "presso [LivingMedia S.r.L.](livingmedia.it)"
+description = "presso LivingMedia S.r.L."
 
 categories = [
     "Lavoro",
