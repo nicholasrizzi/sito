@@ -25,4 +25,4 @@ Mi sono affacciato al mondo del videomaking in seconda media grazie ad un concor
 
 Ho seguito il corso di operatore grafico audio-video che poi è diventato tecnico con il completamento del quarto anno. In quei anni ho imparato a lavorare sia in grafica che in video.
 
-Attualmente lavoro presso LivingMedia come addetto allo streaming e video editor.
+Attualmente lavoro presso [LivingMedia](https://www.linkedin.com/company/living-media-s-r-l-/) come addetto allo streaming e video editor.
