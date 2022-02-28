@@ -1,8 +1,8 @@
 +++
 author = "Nicholas Rizzi"
 title = "ACOF 'O. Fiorini'"
-date = "2021-11-16"
-description = "Qualifica di operatore grafico audiovideo"
+date = "2021-06-16"
+description = "Qualifica di Tecnico grafico"
 
 categories = [
     "Formazione",
