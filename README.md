@@ -2,11 +2,9 @@
 
 [Example Site](https://theme-stack.jimmycai.com/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2d2807a-a905-4bcb-97da-8da8d847da3d/deploy-status)](https://app.netlify.com/sites/hugo-theme-stack/deploys)
-
 ## Documentation
 
-[Documentation](https://docs.stack.jimmycai.com/) | [中文文档](https://docs.stack.jimmycai.com/zh/)
+[Documentation](https://docs.stack.jimmycai.com/)
 
 ## Introduction
 
