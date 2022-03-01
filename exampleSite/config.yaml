@@ -204,6 +204,24 @@ menu:
           params:
             icon: brand-instagram
             
+         - identifier: LinkedIn
+          name: LinkedIn
+          url: https://twitter.com
+          params:
+            icon: brand-linkedin
+        
+        - identifier: Facebook
+          name: Facebook
+          url: https://twitter.com
+          params:
+            icon: brand-facebook
+            
+        - identifier: YouTube
+          name: Youtube
+          url: https://twitter.com
+          params:
+            icon: brand-yt
+            
 related:
     includeNewer: true
     threshold: 60
