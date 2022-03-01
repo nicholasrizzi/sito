@@ -197,31 +197,25 @@ menu:
           url: https://twitter.com
           params:
             icon: brand-twitter
-
+        
         - identifier: instagram
           name: Instagram
           url: https://twitter.com
           params:
             icon: brand-instagram
             
-         - identifier: LinkedIn
+         - identifier: linkedin
           name: LinkedIn
           url: https://twitter.com
           params:
             icon: brand-linkedin
-        
-        - identifier: Facebook
-          name: Facebook
-          url: https://twitter.com
-          params:
-            icon: brand-facebook
             
-        - identifier: YouTube
-          name: Youtube
+        - identifier: youtube
+          name: YouTube
           url: https://twitter.com
           params:
             icon: brand-yt
-            
+
 related:
     includeNewer: true
     threshold: 60
