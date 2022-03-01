@@ -6,7 +6,7 @@
 	.st0{display:none;fill:none;}
 	
 		.st1{display:none;fill:none;stroke:#000000;stroke-width:4.6667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.3333;}
-	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.3333;}
+	.st2{fill:none;}
 </style>
 <path class="st0" d="M0,0h56v56H0V0z"/>
 <path class="st1" d="M27.5,49H11.7C9.1,49,7,46.9,7,44.3v-28c0-2.6,2.1-4.7,4.7-4.7h28c2.6,0,4.7,2.1,4.7,4.7v9.3"/>
