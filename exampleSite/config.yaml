@@ -1,14 +1,14 @@
 baseurl: https://nicholas.rizzi.business
-languageCode: en-us
+languageCode: it-it
 theme: hugo-theme-stack
 paginate: 5
 title: Nicholas Rizzi
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+#disqusShortname: 
 
 # GA Tracking ID
-googleAnalytics:
+#googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
