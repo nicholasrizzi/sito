@@ -44,14 +44,6 @@ Please do not remove the "*Theme Stack designed by Jimmy*" text and link.
 
 If you want to port this theme to another blogging platform, please let me know🙏.
 
-## Sponsoring
-
-If you like this theme, give it a star, and consider supporting its development:
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C530AXX)
-
-Your support is greatly appreciated :)
-
 ## Thanks to
 
 | Project | Description | Licence |
