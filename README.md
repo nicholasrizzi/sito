@@ -1,8 +1,3 @@
-![Stack](https://i.imgur.com/cCiHOGS.jpg)
-# Hugo Theme Stack
-
-> Card-style Hugo theme designed for bloggers.
-
 ## Demo
 
 [Example Site](https://theme-stack.jimmycai.com/)
