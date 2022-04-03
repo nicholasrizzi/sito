@@ -5,7 +5,7 @@ paginate: 5
 title: Nicholas Rizzi
 
 # Change it to your Disqus shortname before using
-#disqusShortname: 
+#disqusShortname:
 
 # GA Tracking ID
 googleAnalytics: G-2HT8EDXERG
@@ -114,15 +114,15 @@ params:
             emitMetadata: 0
 
         gitalk:
-            owner: 
-            admin:  
-            repo: 
-            clientID: 
-            clientSecret: 
-        
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
         cusdis:
-            host: 
-            id: 
+            host:
+            id:
 
     widgets:
         enabled:
@@ -176,7 +176,7 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-              
+
         - identifier: privacy
           name: Privacy
           url: https://www.iubenda.com/privacy-policy/65026713
@@ -184,25 +184,21 @@ menu:
           params:
             icon: privacy-policy
             newTab: true
-    
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-            icon: brand-github
-            
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-            icon: brand-twitter
-        
-        - identifier: instagram
-          name: Instagram
-          url: https://twitter.com
-          params:
-            icon: brand-instagram
+
+#    social:
+#        - identifier: github
+#          name: GitHub
+#          params:
+#
+#        - identifier: twitter
+#          name: Twitter
+#          url: https://twitter.com
+#
+#        - identifier: instagram
+#          name: Instagram
+#          url: https://twitter.com
+#          params:
+#            icon: brand-instagram
 
 related:
     includeNewer: true
