@@ -8,7 +8,7 @@ title: Nicholas Rizzi
 #disqusShortname:
 
 # GA Tracking ID
-googleAnalytics: G-2HT8EDXERG
+googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
@@ -127,7 +127,7 @@ params:
     widgets:
         enabled:
             - search
-            - archives
+#           - archives
             - tag-cloud
 
         archives:
