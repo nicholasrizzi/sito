@@ -11,7 +11,7 @@ params:
     favicon: icons/logo.svg
 
     footer:
-        since:
+        since: 02/09/2021
         customText:
 
     dateFormat:
