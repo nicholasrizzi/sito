@@ -189,10 +189,14 @@ menu:
         - identifier: github
           name: GitHub
           params:
+          params:
+            icon: brand-github
 
         - identifier: twitter
           name: Twitter
           url: https://twitter.com
+          params:
+            icon: brand-twitter
 
         - identifier: instagram
           name: Instagram
