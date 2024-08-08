@@ -185,20 +185,20 @@ menu:
             icon: privacy-policy
             newTab: true
 
-#    social:
-#        - identifier: github
-#          name: GitHub
-#          params:
-#
-#        - identifier: twitter
-#          name: Twitter
-#          url: https://twitter.com
-#
-#        - identifier: instagram
-#          name: Instagram
-#          url: https://twitter.com
-#          params:
-#            icon: brand-instagram
+    social:
+        - identifier: github
+          name: GitHub
+          params:
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com
+
+        - identifier: instagram
+          name: Instagram
+          url: https://twitter.com
+          params:
+            icon: brand-instagram
 
 related:
     includeNewer: true
