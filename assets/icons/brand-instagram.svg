@@ -3,9 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
+        stroke="none" d="M0 0h24v24H0z" fill="none"
       }
     </style>
   </defs>
