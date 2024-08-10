@@ -22,6 +22,11 @@ Principalmente mi occupo di realizzazione di contenuti video e regia eventi e li
 
 # Compentenze acquisite
 Qui ho imparato ad usare in maniera professionale vMix riuscendo ad ottimizzare il processo di lavoro e ad ottenere un risultato migliore.
+
+# Video realizzati in questa esperienza
+https://youtu.be/JwN0msJU2PE?si=EfJSaoFyPo3TWYWk
+{{< youtube EfJSaoFyPo3TWYWk >}}
+
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto; }
