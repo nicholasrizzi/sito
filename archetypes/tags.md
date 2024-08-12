@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ Nicholas Rizzi "-" " " | title }}"
 description: 
 image: 
 ---
