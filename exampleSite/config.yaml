@@ -27,11 +27,11 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: icons/logo.svg
+    favicon: icons/logo
 
     footer:
         since: 2021
-        customText: sss
+        customText: Privacy polocy <a href:"https://www.iubenda.com/privacy-policy/44593077"> AAA </a>
 
     dateFormat:
         published: 02/01/2006
@@ -177,13 +177,13 @@ menu:
               newTab: false
               icon: home
 
-        - identifier: privacy
-          name: Privacy
-          url: https://www.iubenda.com/privacy-policy/65026713
-          weight: -100
-          params:
-            icon: privacy-policy
-            newTab: true
+#        - identifier: privacy
+#          name: Privacy
+#          url: https://www.iubenda.com/privacy-policy/65026713
+#          weight: -100
+#          params:
+#            icon: privacy-policy
+#            newTab: true
 
     social:
         - identifier: linkedin
@@ -191,12 +191,6 @@ menu:
           params:
           params:
             icon: brand-linkedin
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-            icon: brand-twitter
 
         - identifier: instagram
           name: Instagram
