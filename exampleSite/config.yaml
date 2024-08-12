@@ -186,11 +186,11 @@ menu:
             newTab: true
 
     social:
-        - identifier: github
-          name: GitHub
+        - identifier: linkedin
+          name: LinkedIn
           params:
           params:
-            icon: brand-github
+            icon: brand-linkedin
 
         - identifier: twitter
           name: Twitter

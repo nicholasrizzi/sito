@@ -17,7 +17,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: portfolio
 ---
 
 Sono un ragazzo di 19 anni. Da sempre appassionato di tecnologia e videomaking.
