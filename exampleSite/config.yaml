@@ -31,7 +31,7 @@ params:
 
     footer:
         since: 2021
-        customText: Privacy polocy <a href:"https://www.iubenda.com/privacy-policy/44593077"> AAA </a>
+        customText: 
 
     dateFormat:
         published: 02/01/2006
