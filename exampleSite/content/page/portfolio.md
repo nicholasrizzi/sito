@@ -2,12 +2,8 @@
 title: Portfolio
 description: Video portfolio
 date: '2024-08-12'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
 license: CC BY-NC-ND
-lastmod: '2024-08-24'
+lastmod: '2024-08-18'
 tag:
   - video
   - videomaking
