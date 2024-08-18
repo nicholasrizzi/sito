@@ -36,9 +36,7 @@ Grazie a queste competenze, sono riuscito non solo a migliorare l'efficienza ope
 # Video realizzati in questa esperienza
 {{< youtube JwN0msJU2PE >}}
 {{< youtube 1KP0S6ijHgk >}}
-{{< youtube hZfgrg6fu58 >}}
 {{< youtube jRSNn1dsgSI >}}
 {{< youtube r56An6_MLk0 >}}
 {{< youtube HhgCgLtUGPo >}}
-{{< youtube S1HvNato_4g >}}
 {{< youtube rBTiKvzJmKE >}}
