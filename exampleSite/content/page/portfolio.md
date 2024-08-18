@@ -18,14 +18,20 @@ menu:
 Alcuni esempi di video su cui ho messo le mani.
 
 # Video corporate
+Se non carica il player di YouTube, occorre accettare i cookies.
 {{< youtube JwN0msJU2PE >}}
+
 {{< youtube 1KP0S6ijHgk >}}
+
 {{< youtube hZfgrg6fu58 >}}
 
 # Live streaming & Webinar
 {{< youtube jRSNn1dsgSI >}}
+
 {{< youtube r56An6_MLk0 >}}
+
 {{< youtube HhgCgLtUGPo >}}
+
 {{< youtube S1HvNato_4g >}}
 
 # Podcast & Video podcast

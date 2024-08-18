@@ -34,9 +34,16 @@ In particolare, l'utilizzo avanzato di vMix mi ha permesso di sperimentare e imp
 Grazie a queste competenze, sono riuscito non solo a migliorare l'efficienza operativa, ma anche a elevare il livello delle produzioni, garantendo risultati che si distinguono per professionalità e attenzione ai dettagli.
 
 # Video realizzati in questa esperienza
+Se non carica il player di YouTube, occorre accettare i cookies.
+
 {{< youtube JwN0msJU2PE >}}
+
 {{< youtube 1KP0S6ijHgk >}}
+
 {{< youtube jRSNn1dsgSI >}}
+
 {{< youtube r56An6_MLk0 >}}
+
 {{< youtube HhgCgLtUGPo >}}
+
 {{< youtube rBTiKvzJmKE >}}
