@@ -15,15 +15,18 @@ menu:
         params:
             icon: portfolio
 ---
+Alcuni esempi di video su cui ho messo le mani.
 
-Sono un ragazzo di 19 anni. Da sempre appassionato di tecnologia e videomaking.
+# Video corporate
+{{< youtube JwN0msJU2PE >}}
+{{< youtube 1KP0S6ijHgk >}}
+{{< youtube hZfgrg6fu58 >}}
 
-Sin da piccolo ho sempre avuto a che fare con la tencologia e il mnondo dei computer. Sull'internet cercavo informazioni su i più disparati argomenti dell'informatica spaziando tra networking e hardware.
+# Live streaming & Webinar
+{{< youtube jRSNn1dsgSI >}}
+{{< youtube r56An6_MLk0 >}}
+{{< youtube HhgCgLtUGPo >}}
+{{< youtube S1HvNato_4g >}}
 
-Posso dire che *ho visto* internet evolversi.
-
-Mi sono affacciato al mondo del videomaking in seconda media grazie ad un concorso organizzato dai Comune della scuola. Il concorso consisteva nel realizzare un cortometraggio riguardante le Olinpiadi del Brasile del 2016. Da li mi sono appassionato a questo mondo e così ho scelto di frequentare le superiori presso [ACOF "*O. Fiorini*"](https://www.acofbusto.it/) di Busto Arsizio (VA).
-
-Ho seguito il corso di operatore grafico audio-video che poi è diventato tecnico con il completamento del quarto anno. In quei anni ho imparato a lavorare sia in grafica che in video.
-
-Attualmente lavoro presso [LivingMedia](https://www.linkedin.com/company/living-media-s-r-l-/) come addetto allo streaming e video editor.
+# Podcast & Video podcast
+{{< youtube rBTiKvzJmKE >}}
