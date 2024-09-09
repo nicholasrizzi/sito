@@ -3,7 +3,7 @@ title: Portfolio
 description: Video portfolio
 date: '2024-08-12'
 license: CC BY-NC-ND
-lastmod: '2024-08-18'
+lastmod: '2024-09-01'
 tag:
   - video
   - videomaking
@@ -16,9 +16,12 @@ menu:
             icon: portfolio
 ---
 Alcuni esempi di video su cui ho messo le mani.
+**Se non carica il player di YouTube, occorre accettare i cookies.**
+
+# Reel promozionali
+{{< youtube Q5uzz6zHyKs >}}
 
 # Video corporate
-Se non carica il player di YouTube, occorre accettare i cookies.
 {{< youtube JwN0msJU2PE >}}
 
 {{< youtube 1KP0S6ijHgk >}}
