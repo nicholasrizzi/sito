@@ -3,7 +3,6 @@ title: Portfolio
 description: Video portfolio
 date: '2024-08-12'
 license: CC BY-NC-ND
-lastmod: '2024-01-09'
 tag:
   - video
   - videomaking
