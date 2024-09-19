@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /img/logo.png
+    favicon: img/logo.png
 
     footer:
         since: 2021
@@ -81,20 +81,20 @@ params:
             autoCreateIssue: false
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
-        waline:
-            serverURL:
-            lang:
-            visitor:
-            avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
-            requiredMeta:
-                - name
-                - email
-                - url
-            placeholder:
-            locale:
-                admin: Admin
+        # waline:
+        #    serverURL:
+        #    lang:
+        #    visitor:
+        #    avatar:
+        #    emoji:
+        #        - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+        #    requiredMeta:
+        #        - name
+        #        - email
+        #        - url
+        #    placeholder:
+        #    locale:
+        #        admin: Admin
 
         twikoo:
             envId:
