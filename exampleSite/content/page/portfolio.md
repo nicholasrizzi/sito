@@ -23,14 +23,26 @@ Alcuni esempi di video su cui ho messo le mani.
 # Video corporate
 {{< youtube JwN0msJU2PE >}}
 
+{{< youtube g6B6UXHrS5I >}}
+
+{{< youtube rUaMZrVyLFs >}}
+
+{{< youtube DsUgLLGpVyc >}}
+
 {{< youtube 1KP0S6ijHgk >}}
 
 {{< youtube hZfgrg6fu58 >}}
+
+{{< youtube DprA09WZBZ8 >}}
+
+
 
 # Live streaming & Webinar
 {{< youtube jRSNn1dsgSI >}}
 
 {{< youtube r56An6_MLk0 >}}
+
+{{< youtube nhKTKd9w3dU >}}
 
 {{< youtube HhgCgLtUGPo >}}
 
