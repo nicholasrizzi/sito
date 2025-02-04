@@ -29,4 +29,4 @@ Il mio interesse per il videomaking è nato durante la seconda media, quando ho 
 
 Durante le superiori, ho seguito il corso di operatore grafico audio-video, che si è evoluto in un percorso tecnico con il completamento del quarto anno. In quegli anni, ho acquisito competenze sia nel campo della grafica che nella produzione video, sviluppando una solida base professionale.
 
-Attualmente, lavoro presso [LivingMedia](https://www.linkedin.com/company/living-media-s-r-l-/) come Junior Tech Specialist, dove mi occupo della produzione di contenuti video e della gestione di eventi per il settore B2B. Questo ruolo mi permette di unire le mie passioni con le competenze acquisite, contribuendo alla realizzazione di progetti di comunicazione visiva di alto livello.
+Ho lavorato per tre anni presso [LivingMedia](https://www.linkedin.com/company/living-media-s-r-l-/) come Junior Tech Specialist, dove mi sono occupato della produzione di contenuti video e della gestione di eventi per il settore B2B. Questo ruolo mi ha permesso di unire le mie passioni con le competenze acquisite, contribuendo alla realizzazione di progetti di comunicazione visiva di alto livello.

@@ -14,15 +14,15 @@ tags = [
 ]
 +++
 
-Da settembre 2021
+Da settembre 2021 a settembre 2024
 
-# Di cosa mi occupo
+# Di cosa mi sono occupato
 
-Principalmente, mi occupo della realizzazione di contenuti video e della regia di eventi e live streaming, con un focus particolare sulla comunicazione aziendale per i canali B2B. Il mio lavoro consiste nel trasformare idee e messaggi complessi in contenuti visivi accattivanti e coinvolgenti, capaci di risuonare con il pubblico target delle aziende.
+Principalmente, mi sono occupato della realizzazione di contenuti video e della regia di eventi e live streaming, con un focus particolare sulla comunicazione aziendale per i canali B2B. Il mio lavoro ha consistito nel trasformare idee e messaggi complessi in contenuti visivi accattivanti e coinvolgenti, capaci di risuonare con il pubblico target delle aziende.
 
-Nell'ambito della produzione video, seguo ogni fase del processo, dalla pianificazione iniziale alla post-produzione, garantendo che ogni dettaglio sia curato al massimo per raggiungere gli obiettivi comunicativi prefissati. Che si tratti di video promozionali, interviste o contenuti per campagne digitali, il mio approccio è sempre orientato a creare un impatto visivo forte e memorabile.
+Nell'ambito della produzione video, ho seguito ogni fase del processo, dalla pianificazione iniziale alla post-produzione, garantendo che ogni dettaglio fosse curato al massimo per raggiungere gli obiettivi comunicativi prefissati. Che si fosse trattato di video promozionali, interviste o contenuti per campagne digitali, il mio approccio è sempre stato orientato a creare un impatto visivo forte e memorabile.
 
-Inoltre, mi occupo della regia di eventi e live streaming, assicurandomi che ogni aspetto tecnico e creativo sia gestito con precisione e professionalità. Questi eventi, che possono variare da conferenze e presentazioni aziendali a lancio di prodotti e webinar, richiedono un'attenta orchestrazione per garantire che il messaggio dell'azienda venga trasmesso in modo chiaro ed efficace. La mia esperienza mi permette di affrontare le sfide tecniche in tempo reale e di garantire un'esperienza fluida e coinvolgente per tutti i partecipanti.
+Inoltre, mi sono occupato della regia di eventi e live streaming, assicurandomi che ogni aspetto tecnico e creativo fosse gestito con precisione e professionalità. Questi eventi, che possono variare da conferenze e presentazioni aziendali a lancio di prodotti e webinar, hano richiesto un'attenta orchestrazione per garantire che il messaggio dell'azienda fosse trasmesso in modo chiaro ed efficace. La mia esperienza mi ha permesso di affrontare le sfide tecniche in tempo reale e di aver garantito un'esperienza fluida e coinvolgente per tutti i partecipanti.
 
 # Compentenze acquisite
 Durante questa esperienza, ho avuto l'opportunità di approfondire l'utilizzo di vMix, un software avanzato per la produzione video e lo streaming in tempo reale. Grazie a un apprendimento costante e mirato, ho acquisito una padronanza professionale di questo strumento, che mi ha permesso di ottimizzare significativamente il processo di lavoro.
