@@ -1,13 +1,12 @@
 ---
 title: About
 description: Nicholas, aspirante videomaker e nerd di passione
-date: '2022-02-28'
+date: '2022-04-18'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2024-04-18'
 tag:
   - ACOF
   - LivingMedia

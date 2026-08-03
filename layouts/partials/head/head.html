@@ -20,9 +20,9 @@
 {{- $faviconDark := resources.Get "icons/favicon-dark.svg" -}}
 {{- $faviconLight := resources.Get "icons/favicon-light.svg" -}}
 {{- if and $faviconDark $faviconLight }}
-<link rel="icon" href="{{ $faviconLight.RelPermalink }}" media="(prefers-color-scheme: light)">
-<link rel="icon" href="{{ $faviconDark.RelPermalink }}" media="(prefers-color-scheme: dark)">
-<link rel="shortcut icon" href="{{ $faviconLight.RelPermalink }}">
+<link rel="icon" href="{{ $faviconDark.RelPermalink }}" media="(prefers-color-scheme: light)">
+<link rel="icon" href="{{ $faviconLight.RelPermalink }}" media="(prefers-color-scheme: dark)">
+<link rel="shortcut icon" href="{{ $faviconDark.RelPermalink }}">
 {{- else if .Site.Params.favicon }}
 <link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}" />
 {{- end }}

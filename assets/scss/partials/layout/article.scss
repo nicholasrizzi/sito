@@ -392,6 +392,9 @@
         height: 0;
         padding-bottom: 56.25%;
         overflow: hidden;
+        border: 1px solid var(--card-separator-color);
+        border-radius: var(--card-border-radius);
+        margin-bottom: 1em;
 
         & > iframe,
         & > video {
