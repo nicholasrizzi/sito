@@ -1,3 +1,4 @@
 {{ $sass := resources.Get "scss/style.scss" }}
-{{ $style := $sass | resources.ToCSS | minify }}
+{{ $opts := dict "transpiler" "libsass" }}
+{{ $style := $sass | css.Sass $opts | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">

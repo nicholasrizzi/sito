@@ -1,1 +1,104 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+/*
+*   "Redazione notturna" — dark newsroom by default, warm daytime edition when toggled to light.
+*   Fonts self-hosted via layouts/partials/head/custom.html (Source Serif 4, IBM Plex Mono).
+*/
+
+:root {
+    --heading-font-family: "Source Serif 4", Georgia, "Iowan Old Style", serif;
+    --base-font-family: var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --code-font-family: "IBM Plex Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+
+    --card-border-radius: 6px;
+
+    /* Light — "edizione del giorno" */
+    --body-background: #f4f1ea;
+
+    --accent-color: #a8681c;
+    --accent-color-darker: #8a5215;
+    --accent-color-text: #fff;
+    --body-text-color: #6b675e;
+
+    --card-background: #fffdf9;
+    --card-background-selected: #ece7dc;
+    --card-text-color-main: #1c1a16;
+    --card-text-color-secondary: #5b574c;
+    --card-text-color-tertiary: #8c887d;
+    --card-separator-color: rgba(28, 26, 22, 0.1);
+
+    --blockquote-background-color: #ece7dc;
+    --code-background-color: rgba(28, 26, 22, 0.08);
+    --code-text-color: #8a5215;
+
+    --table-border-color: #ded7c6;
+    --tr-even-background-color: #ece7dc;
+
+    &[data-scheme="dark"] {
+        /* Dark — "edizione della notte" */
+        --body-background: #14161a;
+
+        --accent-color: #d99a3d;
+        --accent-color-darker: #f0b563;
+        --accent-color-text: #14161a;
+        --body-text-color: rgba(238, 235, 227, 0.65);
+
+        --card-background: #1c1e22;
+        --card-background-selected: rgba(217, 154, 61, 0.14);
+        --card-text-color-main: #efece4;
+        --card-text-color-secondary: #a9a49a;
+        --card-text-color-tertiary: #78746c;
+        --card-separator-color: rgba(238, 235, 227, 0.1);
+
+        --blockquote-background-color: #1f2226;
+        --pre-background-color: #101114;
+        --pre-text-color: #eae7de;
+        --code-background-color: rgba(238, 235, 227, 0.08);
+        --code-text-color: #d99a3d;
+
+        --table-border-color: #2c2f34;
+        --tr-even-background-color: #1f2226;
+    }
+}
+
+/*
+*   Editorial touches: serif headlines, monospace bylines/kickers,
+*   flatter "printed page" cards instead of soft app-like shadows.
+*/
+.site-name,
+.article-title,
+.section-title,
+.widget-title {
+    font-family: var(--heading-font-family);
+    font-weight: 700;
+}
+
+.site-description {
+    font-style: italic;
+}
+
+.article-category a,
+.article-time,
+.article-time--published,
+.article-time--reading,
+.article-tags a {
+    font-family: var(--code-font-family);
+    letter-spacing: 0.02em;
+}
+
+.article-category a {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.article-list article,
+.section-card {
+    border: 1px solid var(--card-separator-color);
+    box-shadow: none;
+
+    &:hover {
+        box-shadow: none;
+        border-color: var(--accent-color);
+    }
+}

@@ -10,6 +10,7 @@ import { getColor } from 'ts/color';
 import menu from 'ts/menu';
 import createElement from 'ts/createElement';
 import StackColorScheme from 'ts/colorScheme';
+import bindVideoFacades from 'ts/videoFacade';
 
 let Stack = {
     init: () => {
@@ -87,6 +88,8 @@ let Stack = {
         });
 
         new StackColorScheme(document.getElementById('dark-mode-toggle'));
+
+        bindVideoFacades();
     }
 }
 

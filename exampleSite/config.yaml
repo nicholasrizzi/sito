@@ -1,5 +1,5 @@
 baseurl: https://nicholas.rizzi.business
-languageCode: it-it
+locale: it-IT
 theme: hugo-theme-stack
 paginate: 5
 title: Nicholas Rizzi
@@ -8,7 +8,14 @@ title: Nicholas Rizzi
 #disqusShortname:
 
 # GA Tracking ID
-googleAnalytics: G-6GG378VNCZ
+# Disattivato: Google Analytics imposta cookie di tracciamento, che richiederebbero
+# di nuovo un banner di consenso. Riattivare solo insieme a un banner, oppure
+# sostituire con un'alternativa senza cookie (es. Cloudflare Web Analytics, GoatCounter).
+#googleAnalytics: G-6GG378VNCZ
+
+privacy:
+    youtube:
+        privacyEnhanced: true
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
@@ -27,7 +34,11 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: img/logo.svg
+
+    # Cloudflare Web Analytics: nessun cookie, nessun banner richiesto.
+    # Dashboard Cloudflare -> Analytics & Logs -> Web Analytics -> aggiungi il sito,
+    # poi incolla qui solo il valore di "token" dallo snippet che ti viene mostrato.
+    cloudflareAnalyticsToken: e2d777b6f04a42f6bc752d5ff8459568
 
     footer:
         since: 2021
