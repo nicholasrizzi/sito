@@ -18,7 +18,10 @@
         {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
 
         {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
-        {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }} <br>
+        {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }},
+        fork personalizzato con l'aiuto di <a href="https://claude.com/claude-code" target="_blank" rel="noopener">Claude Code</a> <br>
         {{ with .Site.GetPage "/page/privacy" }}<a href="{{ .RelPermalink }}">Privacy Policy</a>{{ end }}
+        ·
+        {{ with .Site.GetPage "/page/ai" }}<a href="{{ .RelPermalink }}">Uso dell'IA</a>{{ end }}
     </section>
 </footer>

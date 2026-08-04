@@ -15,7 +15,6 @@ menu:
             icon: portfolio
 ---
 Alcuni esempi di video su cui ho messo le mani.
-**Se non carica il player di YouTube, occorre accettare i cookies.**
 
 # Reel promozionali
 {{< youtube Q5uzz6zHyKs >}}

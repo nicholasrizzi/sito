@@ -468,6 +468,44 @@
         }
     }
 
+    .certificate-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        margin-bottom: 1.5em;
+    }
+
+    .certificate {
+        display: flex;
+        flex-direction: column;
+        width: 220px;
+        border: 1px solid var(--card-separator-color);
+        border-radius: var(--card-border-radius);
+        overflow: hidden;
+        transition: border-color 0.2s ease;
+
+        &:hover,
+        &:focus-visible {
+            border-color: var(--accent-color);
+        }
+
+        .certificate__thumb {
+            display: block;
+            width: 100%;
+            height: 155px;
+            object-fit: cover;
+            object-position: top;
+            background: var(--card-background-selected);
+        }
+
+        .certificate__label {
+            padding: 10px 12px;
+            font-size: 1.3rem;
+            line-height: 1.4;
+            color: var(--card-text-color-secondary);
+        }
+    }
+
     /// Negative margins
     blockquote,
     figure,

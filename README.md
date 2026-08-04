@@ -1,3 +1,9 @@
+## Note su questo fork
+
+Personalizzazioni specifiche di questo sito documentate in [`docs/`](docs/):
+
+- [Certificati PDF con anteprima](docs/certificates.md)
+
 ## Demo
 
 [Example Site](https://theme-stack.jimmycai.com/)

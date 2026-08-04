@@ -1,0 +1,15 @@
+{{- $pdfName := .Get "pdf" -}}
+{{- $title := .Get "title" -}}
+{{- $date := .Get "date" -}}
+{{- $imgName := replaceRE `\.pdf$` ".jpg" $pdfName -}}
+{{- $pdf := .Page.Resources.GetMatch $pdfName -}}
+{{- $img := .Page.Resources.GetMatch $imgName -}}
+{{- if not $pdf -}}
+    {{- errorf "certificate shortcode: PDF %q not found in %s" $pdfName .Page.File.Path -}}
+{{- end -}}
+<a class="certificate" href="{{ $pdf.RelPermalink }}" target="_blank" rel="noopener">
+    {{- with $img }}
+    <img class="certificate__thumb" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy" alt="Anteprima certificato: {{ $title }}">
+    {{- end }}
+    <span class="certificate__label">{{ $title }}{{ with $date }} · {{ . }}{{ end }}</span>
+</a>
