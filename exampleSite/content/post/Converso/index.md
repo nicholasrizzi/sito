@@ -26,6 +26,6 @@ Il mio compito è garantire che l'infrastruttura audio/video dell'hub sia sempre
 
 # Competenze acquisite
 
-Qui ho potuto affinare le mie conoscenze di NDI e Dante, perché l'hub è dotato delle ultime tecnologie [AVoIP](https://converso.cloud/rsi-hub#tecnologie), che permettono di realizzare regie molto più versatili rispetto a quelle tradizionali basate su cablaggi punto a punto (trovi le relative certificazioni nella pagina [Certificazioni e licenze](/certificazioni-e-licenze/)).
+Qui ho potuto affinare le mie conoscenze di NDI e Dante, perché l'hub è dotato delle ultime tecnologie [AVoIP](https://converso.cloud/rsi-hub#tecnologie), che permettono di realizzare regie molto più versatili rispetto a quelle tradizionali basate su cablaggi punto a punto (trovi le relative certificazioni nella pagina [Certificazioni]({{< ref "/page/certificates" >}})).
 
 Gestendo in autonomia la parte tecnica della hub ho affinato soprattutto le mie doti di problem solving, dovendo gestire imprevisti o variazioni dell'ultimo minuto durante gli eventi live, spesso senza margine per fermare la produzione.

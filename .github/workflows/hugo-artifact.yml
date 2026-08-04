@@ -19,22 +19,30 @@ jobs:
         # Steps represent a sequence of tasks that will be executed as part of the job
         steps:
             # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v7
 
             - name: Hugo setup
-              uses: peaceiris/actions-hugo@v2.4.13
+              uses: peaceiris/actions-hugo@v3
               with:
                   # The Hugo version to download (if necessary) and use. Example: 0.58.2
-                  hugo-version: latest # optional, default is latest
+                  hugo-version: 0.164.0 # optional, default is latest
                   # Download (if necessary) and use Hugo extended version. Example: true
                   extended: true # optional, default is false
 
+            # This repo IS the theme (config.yaml declares `theme: hugo-theme-stack`).
+            # Hugo needs `themesDir/<theme-name>` to exist, so link it under that name
+            # rather than relying on how actions/checkout happens to name the workspace.
+            - name: Link repository as theme
+              run: |
+                  mkdir -p /tmp/hugo-themes
+                  ln -s "$GITHUB_WORKSPACE" /tmp/hugo-themes/hugo-theme-stack
+
             # Runs a set of commands using the runners shell
             - name: Generate Hugo site
-              run: cd exampleSite && hugo --gc --themesDir ../..
+              run: cd exampleSite && hugo --gc --themesDir /tmp/hugo-themes
 
             - name: Upload Hugo artifact
-              uses: actions/upload-artifact@v2.2.2
+              uses: actions/upload-artifact@v7
               with:
                   # Artifact name
                   name: resources

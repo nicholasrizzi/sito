@@ -1,5 +1,5 @@
 ---
-title: Certificazioni e licenze
+title: Certificazioni
 date: '2026-08-04'
 license: CC BY-NC-ND
 tag:
