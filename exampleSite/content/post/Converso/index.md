@@ -12,6 +12,7 @@ tags = [
     "technician",
     "AV",
     "B2B",
+    "events",
 ]
 +++
 

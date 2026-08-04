@@ -33,6 +33,9 @@
 
     {{ $title = $title | append " - " $siteTitle }}
     {{ $title = delimit $title "" }}
+{{- else -}}
+    <!-- Any other page: append the site title -->
+    {{ $title = printf "%s - %s" $title $siteTitle }}
 {{- end -}}
 
 {{ return $title }}

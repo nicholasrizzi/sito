@@ -29,7 +29,7 @@ Il sito utilizza [Cloudflare Web Analytics](https://www.cloudflare.com/web-analy
 
 ## Titolare del trattamento
 
-Nicholas Rizzi. Per qualsiasi richiesta relativa ai tuoi dati personali puoi scrivere tramite [LinkedIn](https://www.linkedin.com/in/nicholasrizzi/) o [Instagram](https://www.instagram.com/_nicholasrizzi_/).
+Nicholas Rizzi. Per qualsiasi richiesta relativa ai tuoi dati personali puoi scrivere a questa mail [nicholas@mettimi-in.cc](mailto:nicholas@mettimi-in.cc).
 
 ## I tuoi diritti
 
